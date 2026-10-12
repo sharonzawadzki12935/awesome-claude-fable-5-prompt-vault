@@ -11,3 +11,4 @@ Notes and usage details for awesome-claude-fable-5-prompt-vault.
 - link the usage section
 - clarify the setup steps
 - clarify the setup steps
+- clarify the setup steps
